@@ -11,7 +11,7 @@ image: https://live.staticflickr.com/65535/49174126032_8744230f39_n.jpg
 image_caption: Untuk memahami secara umum pengelasan bawah air dan penyelaman SSBA
 
 ---
-
+![uwwelding](/assets/images/uwwelding.jpg)
 Nama 		: M Shulhan J
 
 RESUME PERALATAN SSBA & UNDERWATER WELDING
@@ -39,7 +39,7 @@ Underwater welding dapat digunakan dalam:
 3.	Baja
 4.	Stainless-steel
 
-**Pengelas/Penyelam**
+**Pengelas/Penyelam** <br/>
 Untuk melaksanakan pengelasan bawah air dengan akurat dan kualitas yang bagus, pengelas harus mempunyai kualifikasi dan pengalaman. Seorang pengelas/penyelam adalah pengelas yang tersertifikasi dan juga seorang commercial diver dan dapat melakukan tugas yang berkaitan degan kegiatan komersial bawah air, mengelas dan menyiapkan, dan mempunyai kemampuan untuk mengelas sesuai dengan spesifikasi AWS D 3.6 untuk pengelasan bawah air, memotong, atau aktivitas terkait lainnya. Persyaratan kualifikasi dan pengalaman dapat berbeda-beda dari satu proyek dengan proyek lainnya, akan tetapi kebanyakan kontraktor pengelasan mensyaratkan pengelas/penyelam untuk menguasai berbagai bidang, artinya pengelas/penyelam harus menguasai pemotongan bawah air, perkabelan, isnpeksi, dan perawatan/pemeliharaan, dan fotografi disamping pengelasan bawah air.
 
 <br/>
@@ -68,7 +68,7 @@ Proses-proses ini dapat dioperasikan pada tekanan hiperbarik, akan tetapi dapat 
 <br/>
 <br/>
 
-**Resiko**
+**Resiko** <br/>
 Dalam pengelasan bawah air, terdapat beberapa resiko yang dapat terjadi, yaitu:
 1.	Electric shock	: Terdapat kemungkinan terjadinya sengatan listrik saat peralatan tidak terisolasi dengan benar.
 2.	Explosion: proses pengelasan menghasilkan gas hydrogen dan oksigen. Kantung udara dapat terbentuk dan dapat mengashilkan ledakan.
@@ -122,7 +122,8 @@ Peralatan Tambahan Yang Dapat Digunakan:
 - Peralatan tangan seperti obeng, tang, kunci inggris, dll
 - Spear gun 
 
-
+<br/>
+<br/>
 
 **Daftar Pustaka:**
 
