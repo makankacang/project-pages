@@ -10,8 +10,6 @@ visualworkflow: true
 image: https://live.staticflickr.com/65535/49174126032_8744230f39_n.jpg
 image_caption: Untuk memahami secara umum pengelasan bawah air dan penyelaman SSBA
 
-
-{% include linebreaks.html input=content %}
 ---
 
 Nama 		: M Shulhan J
