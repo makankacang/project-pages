@@ -24,7 +24,6 @@ layout: default
 
 
 {% for post in site.posts %}
-	{% include linebreaks.html input=content %}
 
 	{% if post.title != page.title and post.author == page.author %}
 	
@@ -45,7 +44,11 @@ layout: default
 	
 	<div class="notepad-index-post-tags" style="">
 	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div> 
+	</div>
+	
+	{% include linebreaks.html input=content %}
+		
+		
 	
 			{% for member in site.data.members %}
 {% if member.name == page.author %} 
