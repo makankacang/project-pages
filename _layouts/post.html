@@ -24,7 +24,8 @@ layout: default
 
 
 {% for post in site.posts %}
-	
+	{% include linebreaks.html input=content %}
+
 	{% if post.title != page.title and post.author == page.author %}
 	
 	<div class="float-left">
