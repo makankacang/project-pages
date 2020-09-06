@@ -3,7 +3,7 @@ layout:     post
 title:      RESUME PERALATAN SSBA & UNDERWATER WELDING
 author:     Shlhnj
 tags: 		#
-subtitle:  	Ringkasan singkat mengenai SSBA & UW *Welding* secara umum
+subtitle:  	Ringkasan singkat mengenai SSBA & UW Welding secara umum
 category:  resume, tugas, ukm
 visualworkflow: true
 
@@ -102,9 +102,12 @@ c.	Palu
 d.	Peralatan tangan seperti obeng, tang, kunci inggris, dll
 e.	Spear gun 
 
+<br/>
+<br/>
+<br/>
 
 
-Daftar Pustaka:
+**Daftar Pustaka:**
 Appendix 9 School of Science Diving Manual. 2015. Curtin University.
 
 Chhaniyara, Akhil. 2014. Underwater Welding. International Journal of Mechanical and Production Engineering Research and Development (IJMPERD). Vol. 4, Issue 1, Feb 2014, 63-72. 
