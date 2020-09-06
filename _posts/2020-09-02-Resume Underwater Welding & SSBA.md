@@ -6,6 +6,9 @@ tags: 		#
 subtitle:  	Ringkasan singkat mengenai SSBA & UW *Welding* secara umum
 category:  resume, tugas, ukm
 visualworkflow: true
+
+image: https://live.staticflickr.com/65535/49174126032_8744230f39_n.jpg
+image_caption: Untuk memahami secara umum pengelasan bawah air dan penyelaman SSBA
 ---
 
 Nama 		: M Shulhan J
