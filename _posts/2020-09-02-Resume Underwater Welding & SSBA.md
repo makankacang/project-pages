@@ -97,11 +97,11 @@ Peralatan Lain Yang Mungkin Diperlukan:
 
 
 Peralatan Tambahan Yang Dapat Digunakan:
-a.	Peralatan underwater photograpy
-b.	Papan tulis bawah air, alat pengukur
-c.	Palu
-d.	Peralatan tangan seperti obeng, tang, kunci inggris, dll
-e.	Spear gun 
+- Peralatan underwater photograpy
+- Papan tulis bawah air, alat pengukur
+- Palu
+- Peralatan tangan seperti obeng, tang, kunci inggris, dll
+- Spear gun 
 
 
 
