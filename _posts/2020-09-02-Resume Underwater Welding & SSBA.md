@@ -102,9 +102,6 @@ c.	Palu
 d.	Peralatan tangan seperti obeng, tang, kunci inggris, dll
 e.	Spear gun 
 
-<br/>
-<br/>
-<br/>
 
 
 **Daftar Pustaka:**
